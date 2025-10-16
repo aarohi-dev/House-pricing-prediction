@@ -23,21 +23,6 @@ Decision Tree Regressor
 Random Forest Regressor
 XGBoost
 
-🚀 How to Run
-Clone the repository
-
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
-
-Install dependencies
-pip install -r requirements.txt
-Run the Jupyter Notebook or Python script
-jupyter notebook house_price_prediction.ipynb
-
-or
-
-python main.py
-
 📈 Results
 
 The model outputs:
